@@ -1,0 +1,1 @@
+# Defines and trains the emotion classification model using the happy or sad dataset
