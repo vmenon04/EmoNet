@@ -171,9 +171,8 @@ cython_debug/
 .pypirc
 
 # Data Files
-*.png
-*.jpg
-*.jpeg
+data/**/*.png
+data/**/*.jpg
 
 # Mac
 .DS_Store
